@@ -8,3 +8,5 @@
 
 // getDistance(point1, point2) // return 2.23606797749979
 // distance between to points = sqrt( (x2 - x1)^2 + (y2 - y1)^2 )
+
+// getQuadrant(point1) // return 1
