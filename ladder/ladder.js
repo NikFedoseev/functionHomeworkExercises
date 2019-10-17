@@ -1,7 +1,15 @@
 const ladder = {
   step: 0,
-  up() {},
-  down() {},
-  showStep: function() {}
+  up() {
+    this.step = this.step + 1.5;
+    return this;
+  },
+  down() {
+    this.step--;
+    return this;
+  },
+  showStep() {
+    return this.step;
+  }
 };
 module.exports = ladder;
