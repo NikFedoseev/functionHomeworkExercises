@@ -54,6 +54,12 @@ router.bind('/hello', 'GET', callback2);
 router.runRequest('/hello', 'GET') // returns 'hello world 2';
 ```
 
+Если бы обращаемся к несуществующему URL или методу то должно вернуться   
+
+```
+'Error 404: Not Found'
+```
+
 ## PointAbstraction 
 
 Создать абстракцию для работы с точками на плоскости.
