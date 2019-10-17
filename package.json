@@ -1,0 +1,22 @@
+{
+  "name": "functionhomeworkexercises",
+  "version": "1.0.0",
+  "description": "```\r ladder = {\r \tstep: 0,\r \tup() {\r \t\t...\r \t},\r \tdown() {\r \t\t...\r \t},\r \tshowStep() {\r \t\t...\r \t}\r  }\r  ```\r Реализовать методы к объекту ladder так, чтобы можно было их вызывать следующим образом:\r ladder.up().up().showStep()",
+  "main": "ladder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikFedoseev/functionHomeworkExercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikFedoseev/functionHomeworkExercises/issues"
+  },
+  "homepage": "https://github.com/NikFedoseev/functionHomeworkExercises#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
