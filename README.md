@@ -96,3 +96,6 @@ getQuadrant(point1) // return 1
 Для хранения данных использовать объект, где ключом будет арибут name радиокнопки а значением атрибут value радиокнопки  
 
 [https://codepen.io/nikfedoseev/pen/bGGePEZ](https://codepen.io/nikfedoseev/pen/bGGePEZ)
+
+## Тесты
+Таски для запуска тестов в package.json
