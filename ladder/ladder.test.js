@@ -6,5 +6,5 @@ test("ladder", () => {
       .up()
       .up()
       .showStep()
-  ).toBe(3);
+  ).toBe(2);
 });
